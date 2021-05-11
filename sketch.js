@@ -41,7 +41,7 @@ function setup() {
 
 
 function draw() {
-  background(bgImg);
+  background("black");
   star.x=starBody.position.x
  star.y=starBody.position.y
 keyPressed();
